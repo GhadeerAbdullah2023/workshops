@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.div1{
+
+    height: 500px;
+    width: 100%;
+    background-color: #492505;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+  
+}
+
+.div2{
+    background-color: #DDA15E;
+    height: 500px;
+    width: 100%;
+
+    
+  
+}
+.div3{
+
+    background-image: url(images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg);
+    width: 100%;
+    height: 800px;
+
+}
+.p1{
+
+    color: white;
+    padding-top: 80px;
+    
+    
+}
+
+h1{
+    color: white;
+    margin-top: 10px;
+}
+
+.p2{
+    font-size: 20px;
+    text-align: justify;
+    padding-top: 20px;
+    color: white;
+    margin-left: 5px;
+}
+.p3{
+    color: white;
+    padding-top: 20px;
+    font-size: 20px;
+    text-align: justify;
+}
+button{
+    border: 1px solid white;
+    background-color: #492505;
+    color: white;
+    border-radius: 50px;
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+.div_p{
+
+    padding-left: 50px;
+}
+.img{
+    float: left;
+    margin-top: 52px;
+    padding-left: 100px;
+}
+.d1{
+    
+    margin: 0px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.b{
+    border: 1px solid #a3631a;
+    background-color: #a3631a;
+    color: white;
+    border-radius: 50px;
+    padding: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-top: 20px;
+    margin-left: 100px;
+
+}
+.card{
+    width: 200px;
+    height: auto;
+    background-color: white;
+   
+    margin-right: auto;
+    margin: 100px;
+    border-radius: 12px;
+
+}
+.card_header{
+    width: 100%;
+    border-radius: 12px;
+    margin: 3px;
+    text-align: center;
+
+
+}
